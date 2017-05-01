@@ -1,0 +1,7 @@
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+rafael28
+trab1-2017.txt
